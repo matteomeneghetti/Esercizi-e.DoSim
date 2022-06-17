@@ -4,13 +4,13 @@
 
 L'obiettivo di questo primo esercizio è prendere familiarità con l'uso del simulatore.
 
-In particolare:
+Si consiglia l'utilizzo dell'ambiente di programmazione Scratch e un salvataggio periodico del lavoro compiuto (questo vale soprattutto per gli esercizi futuri). Dividere il lavoro in più funzioni è sia utile che una buona pratica (good practice) nella programmazione in quanto consente di riadoperare il lavoro già svolto in precedenza e riutilizzare agilmente il codice già scritto.
 
 - Muovi il robot nello spazio dei giunti usando gli slider. Nota come il pannello cartesiano si aggiorna automaticamente dopo aver raggiunto la configurazione desiderata.
 
-- Spostare il robot nella posa prediletta per le operazioni di pick-and-place (J2 50°, J3 40°, J5 90°). Prova a cambiare l'orientamento dell'end-effector: cosa noti? È facile come muoverlo nei giunti?
+- Sposta il robot nella posa prediletta per le operazioni di pick-and-place (J2 50°, J3 40°, J5 90°). Prova a cambiare l'orientamento dell'end-effector: cosa noti? È facile come muoverlo nei giunti?
 
-- Muovendolo nello spazio cartesiano prova ad assumere la seguente posa:
+- Muovendo il robot nello spazio cartesiano, prova ad assumere la seguente posa:
     - x: 400
     - y: 0
     - z: 150
