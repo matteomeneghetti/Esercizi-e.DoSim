@@ -1,9 +1,11 @@
 ## Esercizio 1
 
-Il primo esercizio consiste in una semplice operazione di pick-and-place. Usando le conoscenze pregresse muovere nel seguente ordine:
+Prima operazione di pick-and-place.
 
-1. 
+### Obiettivo
+
+Usando le conoscenze pregresse, prova a spostare tutte le sfere dalla loro posizione iniziale ad una a piacere.
 
 ### Consegna
 
-Per considerare l'esercizio completato è necessario consegnare un sketch Scratch contenente il codice a blocchi che garantisca la corretta riuscita dell'operazione pick and place oppure di un video.
+La consegna prevede l'invio del file Scratch contenente le istruzioni per la corretta esecuzione dell'esercizio.
