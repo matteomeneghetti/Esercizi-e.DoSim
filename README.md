@@ -11,6 +11,8 @@ Repository contenente i diversi esercizi da svolgere usando il simulatore e.DoSi
 
 [Ambiente Scratch](scratch_tutorial.md) - Istruzioni su come abilitare l'ambiente di lavoro Scratch
 
+**Attenzione**: al momento non è possibile cambiare l'orientamento dell'end-effector tramite Scratch. Quando è necessario farlo consiglio di cambiare la configurazione del robot con gli slider, poi copiare il vettore dei giunti attuale (lo trovate sotto gli slider, in basso a destra) e poi inserirlo nel blocco Scratch "move eDo joints through matrix".
+
 ## Esercizi
 
 - [Esercizio 0](esercizi/esercizio_0.md) - Tutorial
