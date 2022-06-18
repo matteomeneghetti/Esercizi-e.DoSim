@@ -4,7 +4,7 @@
 
 L'obiettivo di questo primo esercizio è prendere familiarità con l'uso del simulatore.
 
-Si consiglia l'utilizzo dell'ambiente di programmazione Scratch e un salvataggio periodico del lavoro compiuto (questo vale soprattutto per gli esercizi futuri). Dividere il lavoro in più funzioni è sia utile che una buona pratica (good practice) nella programmazione in quanto consente di riadoperare il lavoro già svolto in precedenza e riutilizzare agilmente il codice già scritto.
+Si consiglia l'utilizzo dell'ambiente di programmazione Scratch e un salvataggio periodico del lavoro compiuto (questo vale soprattutto per gli esercizi futuri). Dividere il lavoro in più funzioni o files è sia utile che una buona pratica nella programmazione in quanto consente di riadoperare il lavoro già svolto in precedenza e riutilizzare agilmente il codice già scritto.
 
 - Muovi il robot nello spazio dei giunti usando gli slider. Nota come il pannello cartesiano si aggiorna automaticamente dopo aver raggiunto la configurazione desiderata.
 
