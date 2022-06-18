@@ -7,6 +7,10 @@ Nella robotica, lo spazio di lavoro raggiungibile (*reachable workspace*) è il 
 ### Obiettivo
 Come a lezione, eseguire uno slalom tra almeno 3 cilindri del semicerchio centrale con la punta dell'end-effector. Consiglio di far uso sia dello spazio cartesiano che di quello dei giunti, a volte più facile da controllare.
 
+<p align="center">
+  <img src="../assets/slalom.gif" />
+</p>
+
 ### Consegna
 
 La consegna prevede l'invio del file Scratch contenente le istruzioni per la corretta esecuzione dell'esercizio.
