@@ -7,6 +7,11 @@
 
 Repository contenente i diversi esercizi da svolgere usando il simulatore e.DoSim
 
+## Guide
+
+[Ambiente Scratch](scratch_tutorial.md) - Istruzioni su come abilitare l'ambiente di lavoro Scratch
+
+## Esercizi
 
 - [Esercizio 0](esercizi/esercizio_0.md) - Tutorial
 - [Esercizio 1](esercizi/esercizio_1.md) - Pick-and-place
